@@ -63,17 +63,19 @@
     -  <sub>[Business case] </sub> Concerns in moving Enterprise data beyond network firewall? On-premise multimodal models vs GEMINI.     
     -  <sub>[Architecture concept] </sub> On-premise vs API
 
-10.  <sub>[ Captsone Project + Design + Code + New idea ] </sub> **Video reasoning with LLama 3.2 Vision : How to video question answering with short vs long videos?**  ,  **Real world deployment of multimodal AI: Safety checks in multimodal prompts**
-    
-    -  <sub>[Concept + Code] </sub>  Joint embedding across six different modalities - images, text, audio, depth, thermal, and IMU data
-    -  <sub>[Concept + Code] </sub>  Multimodal Latent space arthimetic
-    -  <sub>[Concept + Code] </sub>  Cross-modal Reterival 
-    -  <sub>[Design + Code] </sub> How to process short video with LLama? **Action recognition** of 1 minute video with LLama 3.2 Vision.  (convert video into image frames)  
-    -  <sub>[New idea + Design + Code] </sub> ** How to process long video with LLama?  ** How to design and implement Video question anwering for 5 min videos with LLama 3.2 Vision. 
-    -  <sub>[Design + Code] </sub>  Design custom Safety guardrails for video inputs to multimodal LLMs : How to design and implement safety gaurdrails for multimodal prompts. 
-    -  <sub>[Bonus : New idea + Design + Code] </sub> ** Safety checks: Detecting malicious prompting  ** If the prompt contains a combination of visual & text that causes the MLLM to reason over explict content , how to detect such prompts.    Checking for safety in a combination of text*visual.
+10.  <sub>[ Captsone Project + Design + Code + New idea ] </sub> **Video reasoning with LLama Vision. How to do video question answering in long videos?**  ,  **Bonus: Real world deployment of multimodal AI? Safety checks in multimodal prompts**
 
-12. <end>
+     -  <sub>[Concept] </sub>  Can LLama 3.2 Vision process videos?
+     -  <sub>[Concept + New idea] </sub>  Does the context window limit the number of few shot visual examples?  
+     -  <sub>[Concept + Code] </sub>  Joint embedding across six different modalities - images, text, audio, depth, thermal, and IMU data
+     -  <sub>[Concept + Code] </sub>  Multimodal Latent space arthimetic
+     -  <sub>[Concept + Code] </sub>  Cross-modal Reterival 
+     -  <sub>[Design + Code] </sub>  How to process short video with LLama? **Action recognition** of 1 minute video with LLama 3.2 Vision.  (convert video into image frames) 
+     -  <sub>[New idea + Design + Code] </sub> **How to process long video with LLama?** How to design and implement Video question anwering for 5 min videos with LLama  Vision
+     -  <sub>[Design + Code] </sub>  Design custom Safety guardrails for video inputs to multimodal LLMs : How to design and implement safety gaurdrails for multimodal prompts 
+     -  <sub>[New idea + Design + Code] </sub> **Safety checks: Detecting malicious prompting** If the prompt contains a combination of visual and text that causes the MLLM to reason over explict content , how to detect such prompts.    Checking for safety in a combination of text and visual
+
+11. end 
 
 -------
 
