@@ -35,7 +35,45 @@
     -  <sub>[Design + Code] </sub> How to Fine tune a Multimodal LLM on a multimodal datasets
 
 
+5.  <sub>[ Concept + Design + Code ] </sub> What to do when the MLLM Context window limits the data in multimodal prompts? Optimizing for inference cost in multimodal LLMs  
 
+    -  <sub>[Concept + New idea] </sub>  Does the context window limit the number of few shot visual examples?  Learning to chain Multimodal LLMs.  Learning in image modality vs text modality. 
+    -  <sub>[New idea + Code] </sub> How to learn from many visual examples with chaining of multiple MLLMs?
+
+
+6.  <sub>[ Concept + Design + Code ] </sub> Multimodal embeddings, Search accross modalities , Multimodal Latent space arthimetic,   Cross-modal Reterival 
+
+    -  <sub>[Concept + Code] </sub>  Joint embedding across six different modalities - images, text, audio, depth, thermal, and IMU data
+    -  <sub>[Concept + Code] </sub>  Multimodal Latent space arthimetic
+    -  <sub>[Concept + Code] </sub>  Cross-modal Reterival 
+
+7.  <sub>[ Concept + Design + Code ] </sub> Responsbile AI principles for Multimodal models    
+
+    -  <sub>[Concept] </sub>  Ethical use of multimodal AI.    
+    -  <sub>[New idea + Design + Code] </sub>  How to adapt a multimodal LLMs for lower age group (children<8)?   Designing Guardrails in input and output of multimodal LLMs
+
+8.  <sub>[ Concept + Design + Code  ] </sub> Responsible generation of multimodal content    
+
+    -  <sub>[Concept] </sub>  Safety / Creating safety gaurdrails for image generation tasks 
+    -  <sub>[New idea + Design + Code] </sub>  Implement a custom guardrail for generation. How to combine Diffusion models with VLMs for responsible image generation?     
+
+
+10.  <sub>[ Architecture + Design ] </sub> Why use Multimodal models with HuggingFace?  
+
+    -  <sub>[Architecture concept] </sub> On-premise vs API
+    -  <sub>[Architecture concept] </sub> Open source multimodal models 
+    -  <sub>[Analysis concept] </sub> Concerns in moving Enterprise data beyond network firewall? On-premise multimodal models vs GEMINI.     
+
+11.  <sub>[ Captsone Choice A: Project + Design + Code + New idea ] </sub> Video reasoning with LLama 3.2 Vision : How to video question answering with short vs long videos?
+
+    -  <sub>[Design + Code] </sub> How to process short video with LLama? Action recognition of 1 minute video with LLama 3.2 Vision.  (convert video into image frames)   
+    -  <sub>[New idea + Design + Code] </sub> How to process long video with LLama?  How to design and implement Video question anwering for 5 min videos with LLama 3.2 Vision. 
+  
+12.  <sub>[ Captsone Choice B: Project + Design + Code + New idea ] </sub> Multimodal translations : Transforming content across modalities       
+
+    -  <sub>[Design + Code] </sub>   
+    -  <sub>[New idea + Design + Code] </sub>  Implement a custom guardrail for generation. How to combine Diffusion models with VLMs for responsible image generation?
+       
 
 Start from the basics and go to advanced concepts with multimodal AI.  
 
