@@ -89,12 +89,13 @@
    - Lesson 2.1 Learning Objectives:
      - **Understand different modalites and code different multimodal tasks such as VQA** (Visual Question Answering), Image Captioning, Speech (ASR). 
      - How to apply Multimodal models from Hugging Face for various multimodal tasks such as Visual Question Answering with  Vision-and-Language Transformer (ViLT) model and Captioning images with Generative Image-to-text Transformer (GIT), reasoning over charts with Microsoft Phi-3 Vision (Phi).
-     - Advanced multimodal tasks 
+     - **Introduce learner to implement Advanced multimodal tasks** 
        - MLLM with Visual Grounding (KOSMOS-2)
        - Multimodal chat (Multimodal Reasoning via Thought Chains) (LLaVA)
        - Batched inference on multiple images (LLaVA-OneVision)
        - Explainable AI in Multimodal context (CLIP)
-       - Understanding Objects in Images (Visual Detection and Segmention) (PaliGemma) 
+       - Unified image generation (OmniGen)
+       - Understanding Objects in Images (Visual Detection and Segmention) (PaliGemma)
 
    - Lesson 2.2:   **Enable learner to convert your novel ideas to reality: How to develop novel Multimodal Human Computer Interaction experiences**
    - Lesson 2.2 Learning Objectives:
@@ -114,9 +115,16 @@
        -  Code and implement Multimodal Few Shot prompting with LLama 3.2 Vision
            - **Understand implemention level details of how to provide a prompt with few shot examples of multiple images to LLama Vision vs GEMINI**
                 
-4. Chapter 4: How to create a custom multimodal LLM with fine tunning?
+4. Chapter 4: **How to create a custom multimodal LLM with fine tunning?**
+   - Lesson 4.1: How to Create your custom Multimodal LLM by Fine tuning on multimodal Dataset (PeFT, LoRA, QLoRA)
+   - Lesson 4.2: Understanding Datasets that combine text and image: (LLaVA-Instruct dataset), (amazon-product-descriptions-vlm)
+   - Lesson Learning objectives:
+     - **Learner understands when to use Multimodal Few Shot Learning  vs  Fine tunning of MLLM**
+     - **Learner explores and creates a custom multimodal LLM by fine tunning**
+       - Fine tune LLama 3.2 Vision on amazon-product-descriptions-vlm
+       - Create your custom multimodal model by fine tunning with LLaVA-Instruct dataset
    
-5. Chapter 5: How to chain MLLMs? How to process large sized multimodal data beyond token size limits of LLMs?  
+6. Chapter 5: How to chain MLLMs? How to process large sized multimodal data beyond token size limits of LLMs?  
 7. Chapter 6: How to represent multimodal data in embedding space? Joint Multimodal embeddings, Multimodal Latent space addition, Search and reterival of multimodal content across modalities      
 8. Chapter 7: Responsbile AI principles for Multimodal models
 9. Chapter 8: Responsible generation of multimodal content
