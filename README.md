@@ -1,4 +1,4 @@
-# Multi-Modal Models with Hugging Face  - Course Outline
+# Multi-Modal Models with Hugging Face  - Course details
 
 ##  This is a submission towards Datacamp's Audition process
 ![data camp](https://assets.bitdegree.org/online-learning-platforms/storage/media/datacamp-workspace-review-logo-big.o.png)
@@ -76,7 +76,33 @@
 
 -------
 
-Start from the basics and go to advanced concepts with multimodal AI.  
+## Course outline: Multi-Modal Models with Hugging Face
+
+1. Chapter 1: **Motivating the need for multimodal AI with real world applications**
+   - Lesson 1.1: How to solve a real world use case by designing an architecture with Multimodal AI. 
+   - Lesson 1.1 Learning Objectives:  
+     - **Enable the learner to Think of how they can apply this concept**: How will you apply multimodal model to create technology solutions for Persons with Visual impariment
+     - **Motivate the learner to imagine where they can apply this datacamp course**: Imagine your use case
+        
+2. Chapter 2: **How to design and develop Multimodal Human Computer Interaction experiences?**
+   - Lesson 2.1: How to do Multimodal tasks?
+   - Lesson 2.1 Learning Objectives:
+     - Understand different modalites and code different multimodal tasks such as VQA (Visual Question Answering), Image Captioning, Speech (ASR).
+     - How to apply Multimodal models from Hugging Face for various multimodal tasks such as Visual Question Answering with  Vision-and-Language Transformer (ViLT) model and Captioning images with Generative Image-to-text Transformer (GIT), reasoning over charts with Microsoft Phi-3 Vision (Phi).  
+   - Lesson 2.2:   **Convert your novel ideas to reality: How to develop novel Multimodal Human Computer Interaction experiences**
+   - Lesson 2.2 Learning Objectives:
+     - How to create an app with speech interaction with vision language models in local languages.
+     - Combine Sarvam speech models and LLama Vision models
+       
+3. Chapter 3: When and How to apply Multimodal Few Shot Learning? 
+4. Chapter 4: How to create a custom multimodal LLM with fine tunning?
+6. Chapter 5: How to chain MLLMs? How to process large sized multimodal data beyond token size limits of LLMs?  
+7. Chapter 6: How to represent multimodal data in embedding space? Joint Multimodal embeddings, Multimodal Latent space addition, Search and reterival of multimodal content across modalities      
+8. Chapter 7: Responsbile AI principles for Multimodal models
+9. Chapter 8: Responsible generation of multimodal content
+10. Chapter 9: Why use Multimodal models with HuggingFace?
+11. Chapter 10: How to do video question answering in long videos with Llama Vision? Bonus: Safety checks when prompts contain a combination of text and visuals.
+12. End
 
 #1:  Conceptual understanding: Real world Problem-solving with multimodal AI
 Learning objective #1.  How to apply multimodal model to solve real-world use cases. We will learn the Human-centric design of Multimodal AI solutions using a sample use case of applying  Multimodal LLM for persons with  visual impariment.    
