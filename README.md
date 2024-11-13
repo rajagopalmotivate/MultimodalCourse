@@ -87,8 +87,15 @@
 2. Chapter 2: **How to design and develop Multimodal Human Computer Interaction experiences?**
    - Lesson 2.1: How to do Multimodal tasks?
    - Lesson 2.1 Learning Objectives:
-     - **Understand different modalites and code different multimodal tasks such as VQA** (Visual Question Answering), Image Captioning, Speech (ASR).
-     - How to apply Multimodal models from Hugging Face for various multimodal tasks such as Visual Question Answering with  Vision-and-Language Transformer (ViLT) model and Captioning images with Generative Image-to-text Transformer (GIT), reasoning over charts with Microsoft Phi-3 Vision (Phi).  
+     - **Understand different modalites and code different multimodal tasks such as VQA** (Visual Question Answering), Image Captioning, Speech (ASR). 
+     - How to apply Multimodal models from Hugging Face for various multimodal tasks such as Visual Question Answering with  Vision-and-Language Transformer (ViLT) model and Captioning images with Generative Image-to-text Transformer (GIT), reasoning over charts with Microsoft Phi-3 Vision (Phi).
+     - Advanced multimodal tasks 
+       - MLLM with Visual Grounding (KOSMOS-2)
+       - Multimodal chat (Multimodal Reasoning via Thought Chains) (LLaVA)
+       - Batched inference on multiple images (LLaVA-OneVision)
+       - Explainable AI in Multimodal context (CLIP)
+       - Understanding Objects in Images (Visual Detection and Segmention) (PaliGemma) 
+
    - Lesson 2.2:   **Enable learner to convert your novel ideas to reality: How to develop novel Multimodal Human Computer Interaction experiences**
    - Lesson 2.2 Learning Objectives:
      - Learner will learn to create novel experiences by combining different multimodal models.
