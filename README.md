@@ -3,12 +3,39 @@
 ##  This is a submission towards Datacamp's Audition process
 ![data camp](https://assets.bitdegree.org/online-learning-platforms/storage/media/datacamp-workspace-review-logo-big.o.png)
 
+
 ## What problem(s) will students learn how to solve?
-1. Concept: Design an architecture with Multimodal AI to solve a real world use case. 
-2. Design and implement Multimodal Human Computer Interaction experiences
-       * [Basic Level] Understand different modalites and code different multimodal tasks such as VQA (Visual Question Answering).
-       * [Medium Level] Design and implement a project that calls a combination of multimodal models to solve a new multimodal task. Create an app for multilingual speech interaction with visual question answering task.  
-3. Hello world
+
+1. <sub>[ Concept + Problem Solving + Architecture ] </sub> How to solve a real world use case by designing an architecture with Multimodal AI.
+
+    - Use case: Assistive technology for Persons with Visual impariment  
+    - Use case: Text search to reterive product images in eCommerce store 
+    - Use case: Your use case 
+
+2. <sub>[ Design + Code ] </sub> Design and implement Multimodal Human Computer Interaction experiences
+
+    - <sub>[Basic Level] </sub> Understand different modalites and code different multimodal tasks such as VQA (Visual Question Answering).  
+    - <sub>[Medium Level] </sub> Can you combine two multimodal models to design a new multimodal experience. Create an app for multilingual speech interaction with visual question answering task ( Multilingual Speech interaction + VQA ).
+    - <sub>[Architecture Choices + Analysis] </sub> When to use what? Cost vs Latency vs Accuracy trade offs of different multimodal models. 
+
+3. <sub>[ Concept + Data + Design + Code ] </sub> Design and implement Multimodal Few Shot Learning 
+
+    -  Few Shot Learning in Multimodal models vs Unimodal models.  
+    -  Zero/ One / Few Shot Learning Techniques
+    -  Providing Contrastive examples
+    -  <sub>[Design + Code] </sub> How to provide one-shot multimodal examples to Llama 3.2 Vision
+    -  <sub>[Design + Code] </sub> How to provide Few-shot Image examples to GEMINI  (Contrastive examples)
+    -  <sub>[Design + Code] </sub> How to provide Few-shot Video examples to GEMINI
+    -  <sub>[Advanced Design + Code] </sub> How to find needle in a multimodal haystick  (Search for a visual object in a video)
+     
+  
+4.  <sub>[ Concept + Dataset Design + FineTuning + Code ] </sub> Create a custom multimodal model by fine-tunning a multimodal LLM on a multimodal dataset
+
+    -  <sub>[Concept] </sub> PeFT, LoRA, QLoRA of Multimodal LLMs 
+    -  <sub>[Design + Code] </sub> How to Fine tune a Multimodal LLM on a multimodal datasets
+
+
+
 
 Start from the basics and go to advanced concepts with multimodal AI.  
 
