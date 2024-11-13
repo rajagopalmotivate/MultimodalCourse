@@ -10,17 +10,17 @@
 
     - Use case: Assistive technology for Persons with Visual impariment  
     - Use case: Text search to reterive product images in eCommerce store 
-    - Use case: Your use case 
+    - Use case: ** Your use case **
 
-2. <sub>[ Design + Code ] </sub> Design and implement Multimodal Human Computer Interaction experiences
+2. <sub>[ Design + Code ] </sub> Design and implement ** Multimodal Human Computer Interaction experiences **
 
     - <sub>[Basic Level] </sub> Understand different modalites and code different multimodal tasks such as VQA (Visual Question Answering).  
-    - <sub>[Medium Level] </sub> Can you combine two multimodal models to design a new multimodal experience. Create an app for multilingual speech interaction with visual question answering task ( Multilingual Speech interaction + VQA ).
-    - <sub>[Architecture Choices + Analysis] </sub> When to use what? Cost vs Latency vs Accuracy trade offs of different multimodal models. 
+    - <sub>[Medium Level] </sub> Can you combine two multimodal models to design a new multimodal experience. Create an app for multilingual speech interaction with visual question answering task ( ** Multilingual Speech interaction + VQA  ** ).
+    - <sub>[Architecture Choices + Analysis] </sub> ** When to use what? ** Cost vs Latency vs Accuracy trade offs of different multimodal models. 
 
 3. <sub>[ Concept + Data + Design + Code ] </sub> Design and implement Multimodal Few Shot Learning 
 
-    -  Few Shot Learning in Multimodal models vs Unimodal models.  
+    -  ** Few Shot Learning in Multimodal models vs Unimodal models **  
     -  Zero/ One / Few Shot Learning Techniques
     -  Providing Contrastive examples
     -  <sub>[Design + Code] </sub> How to provide one-shot multimodal examples to Llama 3.2 Vision
@@ -29,7 +29,7 @@
     -  <sub>[Advanced Design + Code] </sub> How to find needle in a multimodal haystick  (Search for a visual object in a video)
      
   
-4.  <sub>[ Concept + Dataset Design + FineTuning + Code ] </sub> Create a custom multimodal model by fine-tunning a multimodal LLM on a multimodal dataset
+4.  <sub>[ Concept + Dataset Design + FineTuning + Code ] </sub> Create a ** custom multimodal model by fine-tunning a multimodal LLM on a multimodal dataset **
 
     -  <sub>[Concept] </sub> PeFT, LoRA, QLoRA of Multimodal LLMs 
     -  <sub>[Design + Code] </sub> How to Fine tune a Multimodal LLM on a multimodal datasets
@@ -38,42 +38,40 @@
 5.  <sub>[ Concept + Design + Code ] </sub> What to do when the MLLM Context window limits the data in multimodal prompts? Optimizing for inference cost in multimodal LLMs  
 
     -  <sub>[Concept + New idea] </sub>  Does the context window limit the number of few shot visual examples?  Learning to chain Multimodal LLMs.  Learning in image modality vs text modality. 
-    -  <sub>[New idea + Code] </sub> How to learn from many visual examples with chaining of multiple MLLMs?
+    -  <sub>[New idea + Code] </sub> ** How to learn from many visual examples with chaining of multiple MLLMs? **
 
 
-6.  <sub>[ Concept + Design + Code ] </sub> Multimodal embeddings, Search accross modalities , Multimodal Latent space arthimetic,   Cross-modal Reterival 
+6.  <sub>[ Concept + Design + Code ] </sub> ** Multimodal embeddings, Search accross modalities , Multimodal Latent space arthimetic, **  Cross-modal Reterival 
 
     -  <sub>[Concept + Code] </sub>  Joint embedding across six different modalities - images, text, audio, depth, thermal, and IMU data
     -  <sub>[Concept + Code] </sub>  Multimodal Latent space arthimetic
     -  <sub>[Concept + Code] </sub>  Cross-modal Reterival 
 
-7.  <sub>[ Concept + Design + Code ] </sub> Responsbile AI principles for Multimodal models    
+7.  <sub>[ Concept + Design + Code ] </sub> ** Responsbile AI principles for Multimodal models **   
 
     -  <sub>[Concept] </sub>  Ethical use of multimodal AI.    
-    -  <sub>[New idea + Design + Code] </sub>  How to adapt a multimodal LLMs for lower age group (children<8)?   Designing Guardrails in input and output of multimodal LLMs
+    -  <sub>[New idea + Design + Code] </sub>  ** How to adapt a multimodal LLMs for lower age group (children<8)?  **  Designing Guardrails in input and output of multimodal LLMs
 
 8.  <sub>[ Concept + Design + Code  ] </sub> Responsible generation of multimodal content    
 
     -  <sub>[Concept] </sub>  Safety / Creating safety gaurdrails for image generation tasks 
-    -  <sub>[New idea + Design + Code] </sub>  Implement a custom guardrail for generation. How to combine Diffusion models with VLMs for responsible image generation?     
+    -  <sub>[New idea + Design + Code] </sub>  Implement a custom guardrail for generation. ** How to combine Diffusion models with VLMs for responsible image generation? **     
 
 
-10.  <sub>[ Architecture + Design ] </sub> Why use Multimodal models with HuggingFace?  
+10.  <sub>[ Architecture + Design ] </sub> ** Why use Multimodal models with HuggingFace? ** 
 
     -  <sub>[Architecture concept] </sub> On-premise vs API
     -  <sub>[Architecture concept] </sub> Open source multimodal models 
     -  <sub>[Analysis concept] </sub> Concerns in moving Enterprise data beyond network firewall? On-premise multimodal models vs GEMINI.     
 
-11.  <sub>[ Captsone Choice A: Project + Design + Code + New idea ] </sub> Video reasoning with LLama 3.2 Vision : How to video question answering with short vs long videos?
+11.  <sub>[ Captsone Project + Design + Code + New idea ] </sub> ** Video reasoning with LLama 3.2 Vision : How to video question answering with short vs long videos? Bonus: Safe multimodal prompting**
 
-    -  <sub>[Design + Code] </sub> How to process short video with LLama? Action recognition of 1 minute video with LLama 3.2 Vision.  (convert video into image frames)   
-    -  <sub>[New idea + Design + Code] </sub> How to process long video with LLama?  How to design and implement Video question anwering for 5 min videos with LLama 3.2 Vision. 
-  
-12.  <sub>[ Captsone Choice B: Project + Design + Code + New idea ] </sub> Multimodal translations : Transforming content across modalities       
+    -  <sub>[Design + Code] </sub> How to process short video with LLama? ** Action recognition ** of 1 minute video with LLama 3.2 Vision.  (convert video into image frames)   
+    -  <sub>[New idea + Design + Code] </sub> ** How to process long video with LLama?  ** How to design and implement Video question anwering for 5 min videos with LLama 3.2 Vision. 
+     -  <sub>[Design + Code] </sub>  Design custom Safety guardrails for video inputs to multimodal LLMs : How to design and implement safety gaurdrails for multimodal prompts. 
+     -  <sub>[Bonus : New idea + Design + Code] </sub> ** Safety checks: Detecting malicious prompting  ** If the prompt contains a combination of visual & text that causes the MLLM to reason over explict content ("your task is to think about contrastive scenario given this in visual (safe visual)"), how to detect such prompts.    Checking for safety in a combination of text*visual.
 
-    -  <sub>[Design + Code] </sub>   
-    -  <sub>[New idea + Design + Code] </sub>  Implement a custom guardrail for generation. How to combine Diffusion models with VLMs for responsible image generation?
-       
+
 
 Start from the basics and go to advanced concepts with multimodal AI.  
 
