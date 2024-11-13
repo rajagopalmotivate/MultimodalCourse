@@ -1,7 +1,14 @@
-# MultimodalCourse
+# Multi-Modal Models with Hugging Face  - Course Outline
 
+##  This is a submission towards Datacamp's Audition process
 ![data camp](https://assets.bitdegree.org/online-learning-platforms/storage/media/datacamp-workspace-review-logo-big.o.png)
 
+## What problem(s) will students learn how to solve?
+1. Concept: Design an architecture with Multimodal AI to solve a real world use case. 
+2. Design and implement Multimodal Human Computer Interaction experiences
+       * [Basic Level] Understand different modalites and code different multimodal tasks such as VQA (Visual Question Answering).
+       * [Medium Level] Design and implement a project that calls a combination of multimodal models to solve a new multimodal task. Create an app for multilingual speech interaction with visual question answering task.  
+3. Hello world
 
 Start from the basics and go to advanced concepts with multimodal AI.  
 
