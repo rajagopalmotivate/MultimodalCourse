@@ -87,16 +87,29 @@
 2. Chapter 2: **How to design and develop Multimodal Human Computer Interaction experiences?**
    - Lesson 2.1: How to do Multimodal tasks?
    - Lesson 2.1 Learning Objectives:
-     - Understand different modalites and code different multimodal tasks such as VQA (Visual Question Answering), Image Captioning, Speech (ASR).
+     - **Understand different modalites and code different multimodal tasks such as VQA** (Visual Question Answering), Image Captioning, Speech (ASR).
      - How to apply Multimodal models from Hugging Face for various multimodal tasks such as Visual Question Answering with  Vision-and-Language Transformer (ViLT) model and Captioning images with Generative Image-to-text Transformer (GIT), reasoning over charts with Microsoft Phi-3 Vision (Phi).  
-   - Lesson 2.2:   **Convert your novel ideas to reality: How to develop novel Multimodal Human Computer Interaction experiences**
+   - Lesson 2.2:   **Enable learner to convert your novel ideas to reality: How to develop novel Multimodal Human Computer Interaction experiences**
    - Lesson 2.2 Learning Objectives:
-     - How to create an app with speech interaction with vision language models in local languages.
-     - Combine Sarvam speech models and LLama Vision models
+     - Learner will learn to create novel experiences by combining different multimodal models.
+     - We will show code to how to Combine Sarvam speech models and LLama Vision models to **create an app with speech interaction with vision language models in local languages**.
        
-3. Chapter 3: When and How to apply Multimodal Few Shot Learning? 
+3. Chapter 3: When and How to apply Multimodal Few Shot Learning?
+   - Lesson 3.1: When to use Multimodal Few Shot vs Zero Shot Approches
+   - Lesson 3.2: Few Shot Learning in Multimodal LLMs vs Text only LLMs
+   - Lesson 3.3: **Multimodal Few Shot Prompt design** How to design and implement Multimodal Few Shot Learning prompts
+   - Lesson 3 Learning Objectives:
+       -  When to use what?
+          - **When to use Multimodal Few Shot vs Zero Shot Approches**
+          - **When to Contrastive Learning**
+          - **How many examples? Cost
+       -  Understand few shot in multimodal prompts
+       -  Code and implement Multimodal Few Shot prompting with LLama 3.2 Vision
+           - **Understand implemention level details of how to provide a prompt with few shot examples of multiple images to LLama Vision vs GEMINI**
+                
 4. Chapter 4: How to create a custom multimodal LLM with fine tunning?
-6. Chapter 5: How to chain MLLMs? How to process large sized multimodal data beyond token size limits of LLMs?  
+   
+5. Chapter 5: How to chain MLLMs? How to process large sized multimodal data beyond token size limits of LLMs?  
 7. Chapter 6: How to represent multimodal data in embedding space? Joint Multimodal embeddings, Multimodal Latent space addition, Search and reterival of multimodal content across modalities      
 8. Chapter 7: Responsbile AI principles for Multimodal models
 9. Chapter 8: Responsible generation of multimodal content
