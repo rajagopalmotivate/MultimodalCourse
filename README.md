@@ -67,9 +67,6 @@
 
      -  <sub>[Concept] </sub>  Can LLama 3.2 Vision process videos?
      -  <sub>[Concept + New idea] </sub>  Does the context window limit the number of few shot visual examples?  
-     -  <sub>[Concept + Code] </sub>  Joint embedding across six different modalities - images, text, audio, depth, thermal, and IMU data
-     -  <sub>[Concept + Code] </sub>  Multimodal Latent space arthimetic
-     -  <sub>[Concept + Code] </sub>  Cross-modal Reterival 
      -  <sub>[Design + Code] </sub>  How to process short video with LLama? **Action recognition** of 1 minute video with LLama 3.2 Vision.  (convert video into image frames) 
      -  <sub>[New idea + Design + Code] </sub> **How to process long video with LLama?** How to design and implement Video question anwering for 5 min videos with LLama  Vision
      -  <sub>[Design + Code] </sub>  Design custom Safety guardrails for video inputs to multimodal LLMs : How to design and implement safety gaurdrails for multimodal prompts 
