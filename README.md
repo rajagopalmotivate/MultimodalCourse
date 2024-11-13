@@ -1,5 +1,7 @@
 # MultimodalCourse
 
+![data camp](https://assets.bitdegree.org/online-learning-platforms/storage/media/datacamp-workspace-review-logo-big.o.png)
+
 
 Start from the basics and go to advanced concepts with multimodal AI.  
 
